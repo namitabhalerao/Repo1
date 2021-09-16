@@ -5,3 +5,4 @@ This line is edited in master branch
 It's in hotfix branch!
 Changes by dev 1
 second test case
+abcdefgh
