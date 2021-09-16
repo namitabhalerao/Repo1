@@ -1,1 +1,2 @@
 This is ComponentA!
+It's in hotfix branch!
